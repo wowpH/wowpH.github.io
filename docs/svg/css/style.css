@@ -1,0 +1,16 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.demo {
+  width: 300px;
+  height: 200px;
+  background-image: url('../svg/demo1.svg');
+  color: white;
+}
